@@ -1,0 +1,8 @@
+{
+  "mode": "starterPacks",
+  "queries": [
+    "journalists",
+    "science"
+  ],
+  "maxItems": 30
+}
